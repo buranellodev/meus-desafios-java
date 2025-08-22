@@ -13,7 +13,7 @@ public class TestUm {
 //Encapsulamento:
 
 /*
-Esconder os detalhes internos de uma classe e xpor apenas o que é necessário.
+Esconder os detalhes internos de uma classe e expor apenas o que é necessário.
 Garante segurança e evita que outras partes do código mexam diretamente nos atributos.
 Como se faz em java: usando private para atributos e public em getters e setters.
 */

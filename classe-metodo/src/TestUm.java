@@ -25,3 +25,7 @@ public class TestUm {
         System.out.println(TestUm.multiplicar(2.5, 4)); // R = 10.
     }
 }
+
+/*
+- Métodos:
+ */
